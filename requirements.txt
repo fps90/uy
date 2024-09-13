@@ -1,2 +1,2 @@
 pyrogram==2.0.101
-pytgcalls==3.0.0.dev21
+git+https://github.com/pytgcalls/pytgcalls.git
