@@ -1,2 +1,2 @@
 pyrogram==2.0.101
-py-tgcalls==0.9.8
+py-tgcalls==0.9.7
