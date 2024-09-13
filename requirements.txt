@@ -1,2 +1,2 @@
 pyrogram==2.0.101
-pytgcalls
+pytgcalls==0.8.0
